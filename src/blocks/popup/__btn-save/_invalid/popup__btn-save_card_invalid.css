@@ -1,0 +1,6 @@
+.popup__btn-save_card_invalid {
+  background-color: #FFFFFF;
+  color: #000000;
+  border: 1px solid #000000;
+  opacity: .2;
+}

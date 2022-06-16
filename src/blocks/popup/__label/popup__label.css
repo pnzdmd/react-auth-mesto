@@ -1,0 +1,10 @@
+.popup__label {
+  display: grid;
+  margin-bottom: 13px;
+  height: 44px;
+  grid-template-areas: 'input'
+                       'error';
+}
+.popup__label:last-of-type {
+  margin: 0;
+}
